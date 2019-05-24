@@ -1,0 +1,60 @@
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.deps.json
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.json
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.dev.json
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.dll
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.pdb
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csprojResolveAssemblyReference.cache
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csproj.CoreCompileInputs.cache
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfoInputs.cache
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfo.cs
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.dll
+C:\Users\JcarlosAd7\Documents\Visual Studio 2017\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.pdb
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.deps.json
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.json
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.dev.json
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.dll
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.pdb
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csprojResolveAssemblyReference.cache
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csproj.CoreCompileInputs.cache
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfoInputs.cache
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfo.cs
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.dll
+C:\Documents\Documentos\Visual Studio\ASP NET C#\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.pdb
+C:\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.deps.json
+C:\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.json
+C:\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.dev.json
+C:\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.dll
+C:\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.pdb
+C:\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csprojResolveAssemblyReference.cache
+C:\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csproj.CoreCompileInputs.cache
+C:\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfoInputs.cache
+C:\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfo.cs
+C:\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.dll
+C:\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.pdb
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.deps.json
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.dll
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.pdb
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.dll
+C:\Users\Rodrigo\Desktop\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.pdb
+D:\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.dll
+D:\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.pdb
+D:\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.deps.json
+D:\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.json
+D:\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.dev.json
+D:\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.dll
+D:\Projects\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.pdb
+D:\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csprojAssemblyReference.cache
+D:\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csproj.CoreCompileInputs.cache
+D:\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfoInputs.cache
+D:\Projects\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfo.cs
